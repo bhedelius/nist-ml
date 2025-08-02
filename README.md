@@ -1,2 +1,2 @@
-# boiling-point-predictor
-Machine learning approach to predict boiling points from chemical structures
+# nist-ml
+Machine learning approaches to predict various NIST properties
