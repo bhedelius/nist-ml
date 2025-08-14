@@ -1,11 +1,28 @@
+"""Scraper for NIST WebBook to collect chemical formula hrefs and mask hrefs."""
+
+from dataclasses import dataclass, field
 import asyncio
 import re
 import aiohttp
 from logging import getLogger
 
-log = getLogger(__name__)
+logger = getLogger(__name__)
 
 WEBBOOK_URL = "https://webbook.nist.gov"
+
+
+@dataclass
+class ChemicalMetadata:
+    """Data class to hold chemical data."""
+
+    href: str | None = None
+    name: str | None = None
+    formula: str | None = None
+    weight: float | None = None
+    inchi: str | None = None
+    inchi_key: str | None = None
+    cas: str | None = None
+    jcamp_hrefs: list[str] = field(default_factory=list)
 
 
 async def fetch_html(
@@ -46,7 +63,7 @@ class NISTScraper:
                             formula_hrefs.add(sub_href)
                 return formula_hrefs, group_hrefs, set()
         except Exception as e:
-            log.error(f"Failed to process {href}: {str(e)}")
+            logger.error(f"Failed to process {href}: {str(e)}")
             return set(), set(), {href}
 
     async def collect_all_formula_hrefs(
@@ -67,7 +84,7 @@ class NISTScraper:
             while groups_to_search:
                 iteration += 1
                 info_msg = f"Iteration {iteration}: {len(formula_hrefs)} entries, {len(groups_to_search)} groups remaining, {len(failed_hrefs)} failed on last attempt"
-                log.info(info_msg)
+                logger.info(info_msg)
 
                 # Create tasks for all groups to search
                 tasks = [
@@ -92,41 +109,122 @@ class NISTScraper:
                     msg = (
                         f"Unable to fetch formula hrefs for groups: {groups_to_search}"
                     )
-                    log.error(msg)
+                    logger.error(msg)
                     break
 
             return formula_hrefs
 
-    async def _fetch_mask_href_by_label(
+    async def _fetch_spectrum_href_by_label(
         self,
         session: aiohttp.ClientSession,
         href: str,
-        label: str,
     ) -> str | None:
         """Fetch a detail page and return the href of the <a> tag with given label."""
         try:
             async with self.semaphore:
                 html = await fetch_html(session, href)
-                pattern = rf'<a href="([^"]+)">{re.escape(label)}</a>'
+                pattern = rf'<a href="([^"]+)">{re.escape("IR Spectrum")}</a>'
                 match = re.search(pattern, html)
                 if match:
                     return match.group(1)
-        except Exception as e:
-            print(f"Error fetching {href}: {type(e).__name__}: {e}")
+        except Exception:
+            logger.exception(f"Error fetching {href}")
         return None
 
-    async def collect_mask_hrefs_by_label(
+    async def collect_spectrum_hrefs_by_label(
         self,
         hrefs: set[str],
-        label: str,
     ) -> set[str]:
         """Collect mask hrefs for all given detail page hrefs with a specific label."""
-        results: set[str] = set()
-
         async with aiohttp.ClientSession() as session:
             tasks = []
             for href in hrefs:
-                tasks.append(self._fetch_mask_href_by_label(session, href, label))
+                tasks.append(self._fetch_spectrum_href_by_label(session, href))
             all_results = await asyncio.gather(*tasks)
             results = {r for r in all_results if r}
         return results
+
+    async def collect_chemical_metadata(
+        self,
+        hrefs: set[str],
+    ) -> list[ChemicalMetadata]:
+        """Collect jcamp hrefs and metadata for all given detail page hrefs."""
+        async with aiohttp.ClientSession() as session:
+            tasks = []
+            for href in hrefs:
+                tasks.append(self._fetch_chemical_metadata(session, href))
+            all_results = await asyncio.gather(*tasks)
+            results = [m for m in all_results if m]
+        return results
+
+    async def _fetch_chemical_metadata(
+        self,
+        session: aiohttp.ClientSession,
+        href: str,
+    ) -> ChemicalMetadata | None:
+        """Fetch a detail page and return the jcamp href and metadata."""
+        try:
+            async with self.semaphore:
+                chemical_metadata = ChemicalMetadata(href=href)
+                html = await fetch_html(session, href)
+                lines = html.splitlines()
+                for i, line in enumerate(lines):
+                    if line.startswith("<title>"):
+                        chemical_metadata.name = line.removeprefix(
+                            "<title>"
+                        ).removesuffix("</title>")
+                    elif line == ' title="IUPAC definition of empirical formula"':
+                        chemical_metadata.formula = (
+                            lines[i + 1].split("</strong> ")[1].removesuffix("</li>")
+                        )
+                    elif (
+                        line
+                        == ' title="IUPAC definition of relative molecular mass (molecular weight)"'
+                    ):
+                        chemical_metadata.weight = float(
+                            lines[i + 1].split("</strong> ")[1].removesuffix("</li>")
+                        )
+                    elif line == "<strong>IUPAC Standard InChI:</strong>":
+                        chemical_metadata.inchi = (
+                            lines[i + 1]
+                            .split('"inchi-text">')[1]
+                            .removesuffix("</span>")
+                        )
+                    elif line == "<strong>IUPAC Standard InChIKey:</strong>":
+                        chemical_metadata.inchi_key = (
+                            lines[i + 1]
+                            .split('"inchi-text">')[1]
+                            .removesuffix("</span>")
+                        )
+                    elif "CAS Registry Number" in line:
+                        chemical_metadata.cas = line.split("</strong> ")[
+                            1
+                        ].removesuffix("</li>")
+                    elif "Index=" in line:
+                        for quote in ("'", '"'):
+                            if quote in line:
+                                jcamp_href = line.split(quote)[1]
+                                break
+                        else:
+                            continue
+
+                        # Remove unnecessary parts and normalize
+                        jcamp_href = jcamp_href.split("&amp;Large=on")[0]
+                        for old, new in [
+                            ("Spec=", "JCAMP="),
+                            ("ID=", "JCAMP="),
+                            ("&amp;Type=IR-SPEC", ""),
+                            ("&amp;Type=IR", ""),
+                            ("#IR-SPEC", ""),
+                        ]:
+                            jcamp_href = jcamp_href.replace(old, new)
+
+                        # Ensure type is IR
+                        jcamp_href += "&amp;Type=IR"
+                        if jcamp_href not in chemical_metadata.jcamp_hrefs:
+                            chemical_metadata.jcamp_hrefs.append(jcamp_href)
+                return chemical_metadata
+
+        except Exception as e:
+            logger.error(f"Failed to parse {href}: {str(e)}")
+        return None

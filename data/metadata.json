@@ -1,0 +1,1202 @@
+[
+  {
+    "href": "/cgi/inchi?ID=C10394646&amp;Mask=80#IR-Spec",
+    "name": "3-Iodo-5-nitroaniline",
+    "formula": "C<sub>6</sub>H<sub>5</sub>IN<sub>2</sub>O<sub>2</sub>",
+    "weight": 264.0206,
+    "inchi": "InChI=1S/C6H5IN2O2/c7-4-1-5(8)3-6(2-4)9(10)11/h1-3H,8H2",
+    "inchi_key": "BKYNSFHBQVINES-UHFFFAOYSA-N",
+    "cas": "10394-64-6",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C10394646&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C2208051&amp;Mask=80#IR-Spec",
+    "name": "Benzoic acid, 2-(dimethylamino)ethyl ester",
+    "formula": "C<sub>11</sub>H<sub>15</sub>NO<sub>2</sub>",
+    "weight": 193.2423,
+    "inchi": "InChI=1S/C11H15NO2/c1-12(2)8-9-14-11(13)10-6-4-3-5-7-10/h3-7H,8-9H2,1-2H3",
+    "inchi_key": "KJSGODDTWRXQRH-UHFFFAOYSA-N",
+    "cas": "2208-05-1",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C2208051&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C943271&amp;Mask=80#IR-Spec",
+    "name": "Ethanone, 1-[4-(1,1-dimethylethyl)phenyl]-",
+    "formula": "C<sub>12</sub>H<sub>16</sub>O",
+    "weight": 176.2548,
+    "inchi": "InChI=1S/C12H16O/c1-9(13)10-5-7-11(8-6-10)12(2,3)4/h5-8H,1-4H3",
+    "inchi_key": "UYFJYGWNYQCHOB-UHFFFAOYSA-N",
+    "cas": "943-27-1",
+    "jcamp_hrefs": []
+  },
+  {
+    "href": "/cgi/inchi?ID=C66827007&amp;Mask=80#IR-Spec",
+    "name": "Diethyl 2,5-diethyladipate",
+    "formula": "C<sub>14</sub>H<sub>26</sub>O<sub>4</sub>",
+    "weight": 258.3538,
+    "inchi": "InChI=1S/C14H26O4/c1-5-11(13(15)17-7-3)9-10-12(6-2)14(16)18-8-4/h11-12H,5-10H2,1-4H3",
+    "inchi_key": "ZQUUGRUUMZFICY-UHFFFAOYSA-N",
+    "cas": "66827-00-7",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C66827007&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=B6006329&amp;Mask=80#IR-Spec",
+    "name": "Benzimidazole, 5-amino-2-(trifluoromethyl)-, dihydrochloride",
+    "formula": "C<sub>8</sub>H<sub>8</sub>Cl<sub>2</sub>F<sub>3</sub>N<sub>3</sub>",
+    "weight": 274.07,
+    "inchi": "InChI=1S/C8H6F3N3.2ClH/c9-8(10,11)7-13-5-2-1-4(12)3-6(5)14-7;;/h1-3H,12H2,(H,13,14);2*1H",
+    "inchi_key": "WOKBVPHBAKYPDH-UHFFFAOYSA-N",
+    "cas": null,
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=B6006329&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/formula?ID=C36854576&amp;Mask=80#IR-Spec",
+    "name": "2-Phenylbutyryl chloride",
+    "formula": "C<sub>10</sub>H<sub>11</sub>ClO",
+    "weight": 182.647,
+    "inchi": "InChI=1S/C10H11ClO/c1-2-9(10(11)12)8-6-4-3-5-7-8/h3-7,9H,2H2,1H3",
+    "inchi_key": "QGXMHCMPIAYMGT-UHFFFAOYSA-N",
+    "cas": "36854-57-6",
+    "jcamp_hrefs": [
+      "/cgi/formula?JCAMP=C36854576&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C51920606&amp;Mask=80#IR-Spec",
+    "name": "Isopropyl (4-chlorophenyl)sulfonylcarbamate",
+    "formula": "C<sub>10</sub>H<sub>12</sub>ClNO<sub>4</sub>S",
+    "weight": 277.725,
+    "inchi": "InChI=1S/C10H12ClNO4S/c1-7(2)16-10(13)12-17(14,15)9-5-3-8(11)4-6-9/h3-7H,1-2H3,(H,12,13)",
+    "inchi_key": "VJAFDXPHYHGHLX-UHFFFAOYSA-N",
+    "cas": "51920-60-6",
+    "jcamp_hrefs": []
+  },
+  {
+    "href": "/cgi/formula?ID=B6003523&amp;Mask=80#IR-Spec",
+    "name": "N-(beta-cyclohexyl-beta-hydroxy-beta-phenyl-ethyl)-n'-methylpiperazine methosulfate",
+    "formula": "C<sub>21</sub>H<sub>36</sub>N<sub>2</sub>O<sub>5</sub>S",
+    "weight": 428.586,
+    "inchi": "InChI=1S/C20H33N2O.CH4O4S/c1-22(2)15-13-21(14-16-22)17-20(23,18-9-5-3-6-10-18)19-11-7-4-8-12-19;1-5-6(2,3)4/h3,5-6,9-10,19,23H,4,7-8,11-17H2,1-2H3;1H3,(H,2,3,4)/q+1;/p-1",
+    "inchi_key": "NSILVESQCSUIAJ-UHFFFAOYSA-M",
+    "cas": null,
+    "jcamp_hrefs": [
+      "/cgi/formula?JCAMP=B6003523&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C22977975&amp;Mask=80#IR-Spec",
+    "name": "Benzamide,n-[2-(2-cyano)propyl]-2-chloro-4-nitro-",
+    "formula": "C<sub>11</sub>H<sub>10</sub>ClN<sub>3</sub>O<sub>3</sub>",
+    "weight": 267.668,
+    "inchi": "InChI=1S/C11H10ClN3O3/c1-11(2,6-13)14-10(16)8-4-3-7(15(17)18)5-9(8)12/h3-5H,1-2H3,(H,14,16)",
+    "inchi_key": "UBQKIFJOOGUFPP-UHFFFAOYSA-N",
+    "cas": "22977-97-5",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C22977975&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C45786150&amp;Mask=80#IR-Spec",
+    "name": "3-Methylenecyclopropane-1,2-dicarboxylic acid",
+    "formula": "C<sub>6</sub>H<sub>6</sub>O<sub>4</sub>",
+    "weight": 142.1094,
+    "inchi": "InChI=1S/C6H6O4/c1-2-3(5(7)8)4(2)6(9)10/h3-4H,1H2,(H,7,8)(H,9,10)",
+    "inchi_key": "XZVHROKAQFFOCA-UHFFFAOYSA-N",
+    "cas": "45786-15-0",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C45786150&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C433067&amp;Mask=80#IR-Spec",
+    "name": "Ethanol, 2,2,2-trifluoro-, 4-methylbenzenesulfonate",
+    "formula": "C<sub>9</sub>H<sub>9</sub>F<sub>3</sub>O<sub>3</sub>S",
+    "weight": 254.226,
+    "inchi": "InChI=1S/C9H9F3O3S/c1-7-2-4-8(5-3-7)16(13,14)15-6-9(10,11)12/h2-5H,6H2,1H3",
+    "inchi_key": "IGKCQDUYZULGBM-UHFFFAOYSA-N",
+    "cas": "433-06-7",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C433067&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C118616&amp;Mask=80#IR-Spec",
+    "name": "Benzoic acid, 2-hydroxy-, ethyl ester",
+    "formula": "C<sub>9</sub>H<sub>10</sub>O<sub>3</sub>",
+    "weight": 166.1739,
+    "inchi": "InChI=1S/C9H10O3/c1-2-12-9(11)7-5-3-4-6-8(7)10/h3-6,10H,2H2,1H3",
+    "inchi_key": "GYCKQBWUSACYIF-UHFFFAOYSA-N",
+    "cas": "118-61-6",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C118616&amp;Index=1&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C118616&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C77101&amp;Mask=80#IR-Spec",
+    "name": "Phencyclidine",
+    "formula": "C<sub>17</sub>H<sub>25</sub>N",
+    "weight": 243.3871,
+    "inchi": "InChI=1S/C17H25N/c1-4-10-16(11-5-1)17(12-6-2-7-13-17)18-14-8-3-9-15-18/h1,4-5,10-11H,2-3,6-9,12-15H2",
+    "inchi_key": "JTJMJGYZQZDUJJ-UHFFFAOYSA-N",
+    "cas": "77-10-1",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C77101&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C101287052&amp;Mask=80#IR-Spec",
+    "name": "1-Hydroxy-2-(n-n-amyl) naphthamide",
+    "formula": "C<sub>16</sub>H<sub>19</sub>NO<sub>2</sub>",
+    "weight": 257.3276,
+    "inchi": "InChI=1S/C16H19NO2/c1-2-3-6-11-17-16(19)14-10-9-12-7-4-5-8-13(12)15(14)18/h4-5,7-10,18H,2-3,6,11H2,1H3,(H,17,19)",
+    "inchi_key": "SXMOTVHITGZJHI-UHFFFAOYSA-N",
+    "cas": "101287-05-2",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C101287052&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C1842382&amp;Mask=80#IR-Spec",
+    "name": "Dibenzyl monoselenide",
+    "formula": "C<sub>14</sub>H<sub>14</sub>Se",
+    "weight": 261.22,
+    "inchi": "InChI=1S/C14H14Se/c1-3-7-13(8-4-1)11-15-12-14-9-5-2-6-10-14/h1-10H,11-12H2",
+    "inchi_key": "DWZCRWXJKIEWDY-UHFFFAOYSA-N",
+    "cas": "1842-38-2",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C1842382&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C15104617&amp;Mask=80#IR-Spec",
+    "name": "Propane, 1,1,2,3,3-pentachloro-",
+    "formula": "C<sub>3</sub>H<sub>3</sub>Cl<sub>5</sub>",
+    "weight": 216.321,
+    "inchi": "InChI=1S/C3H3Cl5/c4-1(2(5)6)3(7)8/h1-3H",
+    "inchi_key": "PANVCEBTPSTUEL-UHFFFAOYSA-N",
+    "cas": "15104-61-7",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C15104617&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C652299&amp;Mask=80#IR-Spec",
+    "name": "2',3',4',5',6'-Pentafluoroacetophenone",
+    "formula": "C<sub>8</sub>H<sub>3</sub>F<sub>5</sub>O",
+    "weight": 210.1008,
+    "inchi": "InChI=1S/C8H3F5O/c1-2(14)3-4(9)6(11)8(13)7(12)5(3)10/h1H3",
+    "inchi_key": "FBGHCYZBCMDEOX-UHFFFAOYSA-N",
+    "cas": "652-29-9",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C652299&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C78115&amp;Mask=80#IR-Spec",
+    "name": "Pentaerythritol Tetranitrate",
+    "formula": "C<sub>5</sub>H<sub>8</sub>N<sub>4</sub>O<sub>12</sub>",
+    "weight": 316.1366,
+    "inchi": "InChI=1S/C5H8N4O12/c10-6(11)18-1-5(2-19-7(12)13,3-20-8(14)15)4-21-9(16)17/h1-4H2",
+    "inchi_key": "TZRXHJWUDPFEEY-UHFFFAOYSA-N",
+    "cas": "78-11-5",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C78115&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C2598290&amp;Mask=80#IR-Spec",
+    "name": "8-Quinolinol, acetate",
+    "formula": "C<sub>11</sub>H<sub>9</sub>NO<sub>2</sub>",
+    "weight": 187.1947,
+    "inchi": "InChI=1S/C11H9NO2/c1-8(13)14-10-6-2-4-9-5-3-7-12-11(9)10/h2-7H,1H3",
+    "inchi_key": "MZPCTRNDYNHZQE-UHFFFAOYSA-N",
+    "cas": "2598-29-0",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C2598290&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C65452&amp;Mask=80#IR-Spec",
+    "name": "Salicylamide",
+    "formula": "C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub>",
+    "weight": 137.136,
+    "inchi": "InChI=1S/C7H7NO2/c8-7(10)5-3-1-2-4-6(5)9/h1-4,9H,(H2,8,10)",
+    "inchi_key": "SKZKKFZAGNVIMN-UHFFFAOYSA-N",
+    "cas": "65-45-2",
+    "jcamp_hrefs": []
+  },
+  {
+    "href": "/cgi/inchi?ID=C141764&amp;Mask=80#IR-Spec",
+    "name": "Propanoic acid, 3-iodo-",
+    "formula": "C<sub>3</sub>H<sub>5</sub>IO<sub>2</sub>",
+    "weight": 199.9751,
+    "inchi": "InChI=1S/C3H5IO2/c4-2-1-3(5)6/h1-2H2,(H,5,6)",
+    "inchi_key": "KMRNTNDWADEIIX-UHFFFAOYSA-N",
+    "cas": "141-76-4",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C141764&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/formula?ID=C473552&amp;Mask=80#IR-Spec",
+    "name": "Bicyclo[3.1.1]heptane, 2,6,6-trimethyl-",
+    "formula": "C<sub>10</sub>H<sub>18</sub>",
+    "weight": 138.2499,
+    "inchi": "InChI=1S/C10H18/c1-7-4-5-8-6-9(7)10(8,2)3/h7-9H,4-6H2,1-3H3",
+    "inchi_key": "XOKSLPVRUOBDEW-UHFFFAOYSA-N",
+    "cas": "473-55-2",
+    "jcamp_hrefs": [
+      "/cgi/formula?JCAMP=C473552&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C7151033&amp;Mask=80#IR-Spec",
+    "name": "7H-imidazo[4,5-d]-v-triazin-4-one, hydrate",
+    "formula": "C<sub>4</sub>H<sub>5</sub>N<sub>5</sub>O<sub>2</sub>",
+    "weight": 155.1148,
+    "inchi": "InChI=1S/C4H3N5O.H2O/c10-4-2-3(6-1-5-2)7-9-8-4;/h1H,(H2,5,6,7,8,10);1H2",
+    "inchi_key": "SCMOMVAOPVUSHY-UHFFFAOYSA-N",
+    "cas": "7151-03-3",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C7151033&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C619410&amp;Mask=80#IR-Spec",
+    "name": "Ethanone, 2-bromo-1-(4-methylphenyl)-",
+    "formula": "C<sub>9</sub>H<sub>9</sub>BrO",
+    "weight": 213.071,
+    "inchi": "InChI=1S/C9H9BrO/c1-7-2-4-8(5-3-7)9(11)6-10/h2-5H,6H2,1H3",
+    "inchi_key": "KRVGXFREOJHJAX-UHFFFAOYSA-N",
+    "cas": "619-41-0",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C619410&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C116402029&amp;Mask=80#IR-Spec",
+    "name": "Di[1,1'-biphenyl]-2-yl 4-(1-phenylethyl)phenyl phosphate",
+    "formula": "C<sub>38</sub>H<sub>31</sub>O<sub>4</sub>P",
+    "weight": 582.6241,
+    "inchi": "InChI=1S/C38H31O4P/c1-29(30-15-5-2-6-16-30)31-25-27-34(28-26-31)40-43(39,41-37-23-13-11-21-35(37)32-17-7-3-8-18-32)42-38-24-14-12-22-36(38)33-19-9-4-10-20-33/h2-29H,1H3",
+    "inchi_key": "NSGMZQQTTMQEMW-UHFFFAOYSA-N",
+    "cas": "116402-02-9",
+    "jcamp_hrefs": []
+  },
+  {
+    "href": "/cgi/inchi?ID=C1656480&amp;Mask=80#IR-Spec",
+    "name": "Propanenitrile, 3,3'-oxybis-",
+    "formula": "C<sub>6</sub>H<sub>8</sub>N<sub>2</sub>O",
+    "weight": 124.1405,
+    "inchi": "InChI=1S/C6H8N2O/c7-3-1-5-9-6-2-4-8/h1-2,5-6H2",
+    "inchi_key": "BCGCCTGNWPKXJL-UHFFFAOYSA-N",
+    "cas": "1656-48-0",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C1656480&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C75183&amp;Mask=80#IR-Spec",
+    "name": "Dimethyl sulfide",
+    "formula": "C<sub>2</sub>H<sub>6</sub>S",
+    "weight": 62.134,
+    "inchi": "InChI=1S/C2H6S/c1-3-2/h1-2H3",
+    "inchi_key": "QMMFVYPAHWMCMS-UHFFFAOYSA-N",
+    "cas": "75-18-3",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C75183&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C661972&amp;Mask=80#IR-Spec",
+    "name": "1,2-Dichlorohexafluoropropane",
+    "formula": "C<sub>3</sub>Cl<sub>2</sub>F<sub>6</sub>",
+    "weight": 220.929,
+    "inchi": "InChI=1S/C3Cl2F6/c4-1(6,2(5,7)8)3(9,10)11",
+    "inchi_key": "JSEUKVSKOHVLOV-UHFFFAOYSA-N",
+    "cas": "661-97-2",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C661972&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C605027&amp;Mask=80#IR-Spec",
+    "name": "Naphthalene, 1-phenyl-",
+    "formula": "C<sub>16</sub>H<sub>12</sub>",
+    "weight": 204.2665,
+    "inchi": "InChI=1S/C16H12/c1-2-7-13(8-3-1)16-12-6-10-14-9-4-5-11-15(14)16/h1-12H",
+    "inchi_key": "IYDMICQAKLQHLA-UHFFFAOYSA-N",
+    "cas": "605-02-7",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C605027&amp;Index=1&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C605027&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C10541692&amp;Mask=80#IR-Spec",
+    "name": "2,5-Dichlorobenzylamine",
+    "formula": "C<sub>7</sub>H<sub>7</sub>Cl<sub>2</sub>N",
+    "weight": 176.043,
+    "inchi": "InChI=1S/C7H7Cl2N/c8-6-1-2-7(9)5(3-6)4-10/h1-3H,4,10H2",
+    "inchi_key": "AKGJLIXNRPNPCH-UHFFFAOYSA-N",
+    "cas": "10541-69-2",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C10541692&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C624975&amp;Mask=80#IR-Spec",
+    "name": "4-Pentene-2-ol, 2-methyl",
+    "formula": "C<sub>6</sub>H<sub>12</sub>O",
+    "weight": 100.1589,
+    "inchi": "InChI=1S/C6H12O/c1-4-5-6(2,3)7/h4,7H,1,5H2,2-3H3",
+    "inchi_key": "UYOPRNGQFQWYER-UHFFFAOYSA-N",
+    "cas": "624-97-5",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C624975&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C2216322&amp;Mask=80#IR-Spec",
+    "name": "Heptane, 4-ethyl-",
+    "formula": "C<sub>9</sub>H<sub>20</sub>",
+    "weight": 128.2551,
+    "inchi": "InChI=1S/C9H20/c1-4-7-9(6-3)8-5-2/h9H,4-8H2,1-3H3",
+    "inchi_key": "XMROPFQWHHUFFS-UHFFFAOYSA-N",
+    "cas": "2216-32-2",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C2216322&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C3967553&amp;Mask=80#IR-Spec",
+    "name": "4,5-Dichloro-1,3-dioxolan-2-one",
+    "formula": "C<sub>3</sub>H<sub>2</sub>Cl<sub>2</sub>O<sub>3</sub>",
+    "weight": 156.952,
+    "inchi": "InChI=1S/C3H2Cl2O3/c4-1-2(5)8-3(6)7-1/h1-2H",
+    "inchi_key": "BETICXVUVYXEJX-UHFFFAOYSA-N",
+    "cas": "3967-55-3",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C3967553&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C71307&amp;Mask=80#IR-Spec",
+    "name": "Cytosine",
+    "formula": "C<sub>4</sub>H<sub>5</sub>N<sub>3</sub>O",
+    "weight": 111.102,
+    "inchi": "InChI=1S/C4H5N3O/c5-3-1-2-6-4(8)7-3/h1-2H,(H3,5,6,7,8)",
+    "inchi_key": "OPTASPLRGRRNAP-UHFFFAOYSA-N",
+    "cas": "71-30-7",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C71307&amp;Index=0&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C71307&amp;Index=1&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C20125842&amp;Mask=80#IR-Spec",
+    "name": "3-Octen-1-ol, (Z)-",
+    "formula": "C<sub>8</sub>H<sub>16</sub>O",
+    "weight": 128.212,
+    "inchi": "InChI=1S/C8H16O/c1-2-3-4-5-6-7-8-9/h5-6,9H,2-4,7-8H2,1H3/b6-5-",
+    "inchi_key": "YDXQPTHHAPCTPP-WAYWQWQTSA-N",
+    "cas": "20125-84-2",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C20125842&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C108827&amp;Mask=80#IR-Spec",
+    "name": "4-Heptanol, 2,6-dimethyl-",
+    "formula": "C<sub>9</sub>H<sub>20</sub>O",
+    "weight": 144.2545,
+    "inchi": "InChI=1S/C9H20O/c1-7(2)5-9(10)6-8(3)4/h7-10H,5-6H2,1-4H3",
+    "inchi_key": "HXQPUEQDBSPXTE-UHFFFAOYSA-N",
+    "cas": "108-82-7",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C108827&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C140114&amp;Mask=80#IR-Spec",
+    "name": "Acetic acid, phenylmethyl ester",
+    "formula": "C<sub>9</sub>H<sub>10</sub>O<sub>2</sub>",
+    "weight": 150.1745,
+    "inchi": "InChI=1S/C9H10O2/c1-8(10)11-7-9-5-3-2-4-6-9/h2-6H,7H2,1H3",
+    "inchi_key": "QUKGYYKBILRGFE-UHFFFAOYSA-N",
+    "cas": "140-11-4",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C140114&amp;Index=1&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C140114&amp;Index=2&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C140114&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C80057&amp;Mask=80#IR-Spec",
+    "name": "Phenol, 4,4'-(1-methylethylidene)bis-",
+    "formula": "C<sub>15</sub>H<sub>16</sub>O<sub>2</sub>",
+    "weight": 228.2863,
+    "inchi": "InChI=1S/C15H16O2/c1-15(2,11-3-7-13(16)8-4-11)12-5-9-14(17)10-6-12/h3-10,16-17H,1-2H3",
+    "inchi_key": "IISBACLAFKSPIT-UHFFFAOYSA-N",
+    "cas": "80-05-7",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C80057&amp;Index=1&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C80057&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C84753&amp;Mask=80#IR-Spec",
+    "name": "1,2-Benzenedicarboxylic acid, dihexyl ester",
+    "formula": "C<sub>20</sub>H<sub>30</sub>O<sub>4</sub>",
+    "weight": 334.4498,
+    "inchi": "InChI=1S/C20H30O4/c1-3-5-7-11-15-23-19(21)17-13-9-10-14-18(17)20(22)24-16-12-8-6-4-2/h9-10,13-14H,3-8,11-12,15-16H2,1-2H3",
+    "inchi_key": "KCXZNSGUUQJJTR-UHFFFAOYSA-N",
+    "cas": "84-75-3",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C84753&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/formula?ID=C138910&amp;Mask=80#IR-Spec",
+    "name": "1-Cyclohexene-1-carboxaldehyde, 4-(1-methylethenyl)-, oxime",
+    "formula": "C<sub>10</sub>H<sub>15</sub>NO",
+    "weight": 165.2322,
+    "inchi": "InChI=1S/C10H15NO/c1-8(2)10-5-3-9(4-6-10)7-11-12/h3,7,10,12H,1,4-6H2,2H3",
+    "inchi_key": "XCOJIVIDDFTHGB-UHFFFAOYSA-N",
+    "cas": "138-91-0",
+    "jcamp_hrefs": [
+      "/cgi/formula?JCAMP=C138910&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C1775275&amp;Mask=80#IR-Spec",
+    "name": "2-Bromo-1-indanone",
+    "formula": "C<sub>9</sub>H<sub>7</sub>BrO",
+    "weight": 211.055,
+    "inchi": "InChI=1S/C9H7BrO/c10-8-5-6-3-1-2-4-7(6)9(8)11/h1-4,8H,5H2",
+    "inchi_key": "UXVCSPSWUNMPMT-UHFFFAOYSA-N",
+    "cas": "1775-27-5",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C1775275&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C589344&amp;Mask=80#IR-Spec",
+    "name": "Hexane, 3-methyl-",
+    "formula": "C<sub>7</sub>H<sub>16</sub>",
+    "weight": 100.2019,
+    "inchi": "InChI=1S/C7H16/c1-4-6-7(3)5-2/h7H,4-6H2,1-3H3",
+    "inchi_key": "VLJXXKKOSFGPHI-UHFFFAOYSA-N",
+    "cas": "589-34-4",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C589344&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C116346204&amp;Mask=80#IR-Spec",
+    "name": "Acetoacetamide, n-(1,1,3,3-tetramethylbutyl)-",
+    "formula": "C<sub>12</sub>H<sub>23</sub>NO<sub>2</sub>",
+    "weight": 213.3165,
+    "inchi": "InChI=1S/C12H23NO2/c1-9(14)7-10(15)13-12(5,6)8-11(2,3)4/h7-8H2,1-6H3,(H,13,15)",
+    "inchi_key": "ROXIBSLHIBBFKK-UHFFFAOYSA-N",
+    "cas": "116346-20-4",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C116346204&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C14094112&amp;Mask=80#IR-Spec",
+    "name": "tert-Butyl methyl sulfoxide",
+    "formula": "C<sub>5</sub>H<sub>12</sub>OS",
+    "weight": 120.213,
+    "inchi": "InChI=1S/C5H12OS/c1-5(2,3)7(4)6/h1-4H3",
+    "inchi_key": "YPRPSRLQZMDWFO-UHFFFAOYSA-N",
+    "cas": "14094-11-2",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C14094112&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C1083483&amp;Mask=80#IR-Spec",
+    "name": "Pyridine, 4-[(4-nitrophenyl)methyl]-",
+    "formula": "C<sub>12</sub>H<sub>10</sub>N<sub>2</sub>O<sub>2</sub>",
+    "weight": 214.22,
+    "inchi": "InChI=1S/C12H10N2O2/c15-14(16)12-3-1-10(2-4-12)9-11-5-7-13-8-6-11/h1-8H,9H2",
+    "inchi_key": "MNHKUCBXXMFQDM-UHFFFAOYSA-N",
+    "cas": "1083-48-3",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C1083483&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C13734366&amp;Mask=80#IR-Spec",
+    "name": "t-Boc-sarcosine",
+    "formula": "C<sub>8</sub>H<sub>15</sub>NO<sub>4</sub>",
+    "weight": 189.209,
+    "inchi": "InChI=1S/C8H15NO4/c1-8(2,3)13-7(12)9(4)5-6(10)11/h5H2,1-4H3,(H,10,11)",
+    "inchi_key": "YRXIMPFOTQVOHG-UHFFFAOYSA-N",
+    "cas": "13734-36-6",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C13734366&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C589173&amp;Mask=80#IR-Spec",
+    "name": "Benzene, 1-bromo-4-(chloromethyl)-",
+    "formula": "C<sub>7</sub>H<sub>6</sub>BrCl",
+    "weight": 205.48,
+    "inchi": "InChI=1S/C7H6BrCl/c8-7-3-1-6(5-9)2-4-7/h1-4H,5H2",
+    "inchi_key": "BSIIGUGKOPPTPZ-UHFFFAOYSA-N",
+    "cas": "589-17-3",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C589173&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C116496685&amp;Mask=80#IR-Spec",
+    "name": "Urea,[4-(2-furylmethyl(methyl)amino)-2,2-diphenyl-n-butyl]-,",
+    "formula": "C<sub>23</sub>H<sub>27</sub>N<sub>3</sub>O<sub>2</sub>",
+    "weight": 377.4794,
+    "inchi": "InChI=1S/C23H27N3O2/c1-26(17-21-13-8-16-28-21)15-14-23(18-25-22(24)27,19-9-4-2-5-10-19)20-11-6-3-7-12-20/h2-13,16H,14-15,17-18H2,1H3,(H3,24,25,27)",
+    "inchi_key": "UVPVHULFYZZUDI-UHFFFAOYSA-N",
+    "cas": "116496-68-5",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C116496685&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/formula?ID=C4028562&amp;Mask=80#IR-Spec",
+    "name": "Butane, 2,3-dichloro-, (R*,S*)-",
+    "formula": "C<sub>4</sub>H<sub>8</sub>Cl<sub>2</sub>",
+    "weight": 127.012,
+    "inchi": "InChI=1S/C4H8Cl2/c1-3(5)4(2)6/h3-4H,1-2H3/t3-,4+",
+    "inchi_key": "RMISVOPUIFJTEO-ZXZARUISSA-N",
+    "cas": "4028-56-2",
+    "jcamp_hrefs": [
+      "/cgi/formula?JCAMP=C4028562&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C140283&amp;Mask=80#IR-Spec",
+    "name": "1,2-Ethanediamine, N,N'-bis(phenylmethyl)-",
+    "formula": "C<sub>16</sub>H<sub>20</sub>N<sub>2</sub>",
+    "weight": 240.3434,
+    "inchi": "InChI=1S/C16H20N2/c1-3-7-15(8-4-1)13-17-11-12-18-14-16-9-5-2-6-10-16/h1-10,17-18H,11-14H2",
+    "inchi_key": "JUHORIMYRDESRB-UHFFFAOYSA-N",
+    "cas": "140-28-3",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C140283&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C116402110&amp;Mask=80#IR-Spec",
+    "name": "1,3-Propanediol, 2,2-dimethyl-, cyclic 2,2-dichloro-vinyl phosphonate",
+    "formula": "C<sub>7</sub>H<sub>11</sub>Cl<sub>2</sub>O<sub>4</sub>P",
+    "weight": 261.04,
+    "inchi": "InChI=1S/C7H11Cl2O4P/c1-7(2)4-12-14(10,13-5-7)11-3-6(8)9/h3H,4-5H2,1-2H3",
+    "inchi_key": "FFWIVYNETUDCQC-UHFFFAOYSA-N",
+    "cas": "116402-11-0",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C116402110&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C2715700&amp;Mask=80#IR-Spec",
+    "name": "Adenine, 9-butyl-",
+    "formula": "C<sub>9</sub>H<sub>13</sub>N<sub>5</sub>",
+    "weight": 191.233,
+    "inchi": "InChI=1S/C9H13N5/c1-2-3-4-14-6-13-7-8(10)11-5-12-9(7)14/h5-6H,2-4H2,1H3,(H2,10,11,12)",
+    "inchi_key": "BKXMJMZKKNIYRD-UHFFFAOYSA-N",
+    "cas": "2715-70-0",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C2715700&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C81516&amp;Mask=80#IR-Spec",
+    "name": "Anthraquinone, 1-amino-2,4-dihydroxy-",
+    "formula": "C<sub>14</sub>H<sub>9</sub>NO<sub>4</sub>",
+    "weight": 255.2256,
+    "inchi": "InChI=1S/C14H9NO4/c15-12-9(17)5-8(16)10-11(12)14(19)7-4-2-1-3-6(7)13(10)18/h1-5,16-17H,15H2",
+    "inchi_key": "QUXBARPXUAPKDG-UHFFFAOYSA-N",
+    "cas": "81-51-6",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C81516&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C5416433&amp;Mask=80#IR-Spec",
+    "name": "3-Anilino-1,4-diphenyl-5-phenylimino-1,2,4-triazoline",
+    "formula": "C<sub>26</sub>H<sub>21</sub>N<sub>5</sub>",
+    "weight": 403.4784,
+    "inchi": "InChI=1S/C26H21N5/c1-5-13-21(14-6-1)27-25-29-31(24-19-11-4-12-20-24)26(28-22-15-7-2-8-16-22)30(25)23-17-9-3-10-18-23/h1-20H,(H,27,29)",
+    "inchi_key": "STYFIGFBSHZRBK-UHFFFAOYSA-N",
+    "cas": "5416-43-3",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C5416433&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C2162994&amp;Mask=80#IR-Spec",
+    "name": "1,8-Dichlorooctane",
+    "formula": "C<sub>8</sub>H<sub>16</sub>Cl<sub>2</sub>",
+    "weight": 183.119,
+    "inchi": "InChI=1S/C8H16Cl2/c9-7-5-3-1-2-4-6-8-10/h1-8H2",
+    "inchi_key": "WXYMNDFVLNUAIA-UHFFFAOYSA-N",
+    "cas": "2162-99-4",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C2162994&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C4190141&amp;Mask=80#IR-Spec",
+    "name": "Benzamide, n-phenacyl-",
+    "formula": "C<sub>15</sub>H<sub>13</sub>NO<sub>2</sub>",
+    "weight": 239.2692,
+    "inchi": "InChI=1S/C15H13NO2/c17-14(12-7-3-1-4-8-12)11-16-15(18)13-9-5-2-6-10-13/h1-10H,11H2,(H,16,18)",
+    "inchi_key": "MIJZKZQWQXKSPA-UHFFFAOYSA-N",
+    "cas": "4190-14-1",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C4190141&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C651898&amp;Mask=80#IR-Spec",
+    "name": "Benzene, 1,2,4,5-tetrafluoro-3,6-bis(trifluoromethyl)-",
+    "formula": "C<sub>8</sub>F<sub>10</sub>",
+    "weight": 286.0696,
+    "inchi": "InChI=1S/C8F10/c9-3-1(7(13,14)15)4(10)6(12)2(5(3)11)8(16,17)18",
+    "inchi_key": "WWZNHODBHBVRID-UHFFFAOYSA-N",
+    "cas": "651-89-8",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C651898&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C835110&amp;Mask=80#IR-Spec",
+    "name": "Methanone, bis(2-hydroxyphenyl)-",
+    "formula": "C<sub>13</sub>H<sub>10</sub>O<sub>3</sub>",
+    "weight": 214.2167,
+    "inchi": "InChI=1S/C13H10O3/c14-11-7-3-1-5-9(11)13(16)10-6-2-4-8-12(10)15/h1-8,14-15H",
+    "inchi_key": "YIYBRXKMQFDHSM-UHFFFAOYSA-N",
+    "cas": "835-11-0",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C835110&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C611994&amp;Mask=80#IR-Spec",
+    "name": "4,4'-Dihydroxybenzophenone",
+    "formula": "C<sub>13</sub>H<sub>10</sub>O<sub>3</sub>",
+    "weight": 214.2167,
+    "inchi": "InChI=1S/C13H10O3/c14-11-5-1-9(2-6-11)13(16)10-3-7-12(15)8-4-10/h1-8,14-15H",
+    "inchi_key": "RXNYJUSEXLAVNQ-UHFFFAOYSA-N",
+    "cas": "611-99-4",
+    "jcamp_hrefs": []
+  },
+  {
+    "href": "/cgi/inchi?ID=C16747389&amp;Mask=80#IR-Spec",
+    "name": "Pentane, 2,3,3,4-tetramethyl-",
+    "formula": "C<sub>9</sub>H<sub>20</sub>",
+    "weight": 128.2551,
+    "inchi": "InChI=1S/C9H20/c1-7(2)9(5,6)8(3)4/h7-8H,1-6H3",
+    "inchi_key": "JLCYYQOQSAMWTA-UHFFFAOYSA-N",
+    "cas": "16747-38-9",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C16747389&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C4170905&amp;Mask=80#IR-Spec",
+    "name": "2,4,6-trimethylbenzylic alcohol",
+    "formula": "C<sub>10</sub>H<sub>14</sub>O",
+    "weight": 150.2176,
+    "inchi": "InChI=1S/C10H14O/c1-7-4-8(2)10(6-11)9(3)5-7/h4-5,11H,6H2,1-3H3",
+    "inchi_key": "LODDFDHPSIYCTK-UHFFFAOYSA-N",
+    "cas": "4170-90-5",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C4170905&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C3689245&amp;Mask=80#IR-Spec",
+    "name": "Sulfotep",
+    "formula": "C<sub>8</sub>H<sub>20</sub>O<sub>5</sub>P<sub>2</sub>S<sub>2</sub>",
+    "weight": 322.319,
+    "inchi": "InChI=1S/C8H20O5P2S2/c1-5-9-14(16,10-6-2)13-15(17,11-7-3)12-8-4/h5-8H2,1-4H3",
+    "inchi_key": "XIUROWKZWPIAIB-UHFFFAOYSA-N",
+    "cas": "3689-24-5",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C3689245&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C485358&amp;Mask=80#IR-Spec",
+    "name": "Cytisine",
+    "formula": "C<sub>11</sub>H<sub>14</sub>N<sub>2</sub>O",
+    "weight": 190.2417,
+    "inchi": "InChI=1S/C11H14N2O/c14-11-3-1-2-10-9-4-8(5-12-6-9)7-13(10)11/h1-3,8-9,12H,4-7H2",
+    "inchi_key": "ANJTVLIZGCUXLD-UHFFFAOYSA-N",
+    "cas": "485-35-8",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C485358&amp;Index=1&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C485358&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C2499583&amp;Mask=80#IR-Spec",
+    "name": "n-Heptyl acrylate",
+    "formula": "C<sub>10</sub>H<sub>18</sub>O<sub>2</sub>",
+    "weight": 170.2487,
+    "inchi": "InChI=1S/C10H18O2/c1-3-5-6-7-8-9-12-10(11)4-2/h4H,2-3,5-9H2,1H3",
+    "inchi_key": "SCFQUKBBGYTJNC-UHFFFAOYSA-N",
+    "cas": "2499-58-3",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C2499583&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C6280871&amp;Mask=80#IR-Spec",
+    "name": "5-Chlorovaleronitrile",
+    "formula": "C<sub>5</sub>H<sub>8</sub>ClN",
+    "weight": 117.577,
+    "inchi": "InChI=1S/C5H8ClN/c6-4-2-1-3-5-7/h1-4H2",
+    "inchi_key": "JSAWFGSXRPCFSW-UHFFFAOYSA-N",
+    "cas": "6280-87-1",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C6280871&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C3678704&amp;Mask=80#IR-Spec",
+    "name": "Pyridine, 2-(diphenylmethyl)-",
+    "formula": "C<sub>18</sub>H<sub>15</sub>N",
+    "weight": 245.3184,
+    "inchi": "InChI=1S/C18H15N/c1-3-9-15(10-4-1)18(16-11-5-2-6-12-16)17-13-7-8-14-19-17/h1-14,18H",
+    "inchi_key": "MMXYNKLYVRNTCK-UHFFFAOYSA-N",
+    "cas": "3678-70-4",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C3678704&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C13149003&amp;Mask=80#IR-Spec",
+    "name": "cis-cyclohexane-1,2-dicarboxylic anhydride",
+    "formula": "C<sub>8</sub>H<sub>10</sub>O<sub>3</sub>",
+    "weight": 154.1632,
+    "inchi": "InChI=1S/C8H10O3/c9-7-5-3-1-2-4-6(5)8(10)11-7/h5-6H,1-4H2/t5-,6+",
+    "inchi_key": "MUTGBJKUEZFXGO-OLQVQODUSA-N",
+    "cas": "13149-00-3",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C13149003&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C829265&amp;Mask=80#IR-Spec",
+    "name": "Naphthalene, 2,3,6-trimethyl-",
+    "formula": "C<sub>13</sub>H<sub>14</sub>",
+    "weight": 170.2503,
+    "inchi": "InChI=1S/C13H14/c1-9-4-5-12-7-10(2)11(3)8-13(12)6-9/h4-8H,1-3H3",
+    "inchi_key": "UNBZRJCHIWTUHB-UHFFFAOYSA-N",
+    "cas": "829-26-5",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C829265&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C108054&amp;Mask=80#IR-Spec",
+    "name": "Acetic acid ethenyl ester",
+    "formula": "C<sub>4</sub>H<sub>6</sub>O<sub>2</sub>",
+    "weight": 86.0892,
+    "inchi": "InChI=1S/C4H6O2/c1-3-6-4(2)5/h3H,1H2,2H3",
+    "inchi_key": "XTXRWKRVRITETP-UHFFFAOYSA-N",
+    "cas": "108-05-4",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C108054&amp;Index=1&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C108054&amp;Index=2&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C108054&amp;Index=0&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C108054&amp;Index=22&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C108054&amp;Index=7&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C108054&amp;Index=17&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C108054&amp;Index=27&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C108054&amp;Index=12&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C52111190&amp;Mask=80#IR-Spec",
+    "name": "Phosphonic acid, (1-carbamoylethyl)-, diethyl ester",
+    "formula": "C<sub>7</sub>H<sub>16</sub>NO<sub>4</sub>P",
+    "weight": 209.18,
+    "inchi": "InChI=1S/C7H16NO4P/c1-4-11-13(10,12-5-2)6(3)7(8)9/h6H,4-5H2,1-3H3,(H2,8,9)",
+    "inchi_key": "OSGRVDNHAGXYME-UHFFFAOYSA-N",
+    "cas": "52111-19-0",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C52111190&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C1072986&amp;Mask=80#IR-Spec",
+    "name": "2-Amino-5-chloropyridine",
+    "formula": "C<sub>5</sub>H<sub>5</sub>ClN<sub>2</sub>",
+    "weight": 128.56,
+    "inchi": "InChI=1S/C5H5ClN2/c6-4-1-2-5(7)8-3-4/h1-3H,(H2,7,8)",
+    "inchi_key": "MAXBVGJEFDMHNV-UHFFFAOYSA-N",
+    "cas": "1072-98-6",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C1072986&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C4920803&amp;Mask=80#IR-Spec",
+    "name": "3-Methoxy-2-nitrobenzoic acid",
+    "formula": "C<sub>8</sub>H<sub>7</sub>NO<sub>5</sub>",
+    "weight": 197.1449,
+    "inchi": "InChI=1S/C8H7NO5/c1-14-6-4-2-3-5(8(10)11)7(6)9(12)13/h2-4H,1H3,(H,10,11)",
+    "inchi_key": "YMOMYSDAOXOCID-UHFFFAOYSA-N",
+    "cas": "4920-80-3",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C4920803&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C3591422&amp;Mask=80#IR-Spec",
+    "name": "Benzene, (2,2-dichloro-1-methylcyclopropyl)-",
+    "formula": "C<sub>10</sub>H<sub>10</sub>Cl<sub>2</sub>",
+    "weight": 201.092,
+    "inchi": "InChI=1S/C10H10Cl2/c1-9(7-10(9,11)12)8-5-3-2-4-6-8/h2-6H,7H2,1H3",
+    "inchi_key": "NXYPRVQXSWVEOB-UHFFFAOYSA-N",
+    "cas": "3591-42-2",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C3591422&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C14496356&amp;Mask=80#IR-Spec",
+    "name": "N-(5-Methylfurfuryl)dimethylamine",
+    "formula": "C<sub>8</sub>H<sub>13</sub>NO",
+    "weight": 139.1949,
+    "inchi": "InChI=1S/C8H13NO/c1-7-4-5-8(10-7)6-9(2)3/h4-5H,6H2,1-3H3",
+    "inchi_key": "IYULRWBZWXMBGW-UHFFFAOYSA-N",
+    "cas": "14496-35-6",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C14496356&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C14143556&amp;Mask=80#IR-Spec",
+    "name": "2-Pyridinecarboxylic acid, 4-amino-3,5,6-trichloro-, methyl ester",
+    "formula": "C<sub>7</sub>H<sub>5</sub>Cl<sub>3</sub>N<sub>2</sub>O<sub>2</sub>",
+    "weight": 255.486,
+    "inchi": "InChI=1S/C7H5Cl3N2O2/c1-14-7(13)5-2(8)4(11)3(9)6(10)12-5/h1H3,(H2,11,12)",
+    "inchi_key": "RJQUHEYNLDNJLN-UHFFFAOYSA-N",
+    "cas": "14143-55-6",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C14143556&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C1589475&amp;Mask=80#IR-Spec",
+    "name": "1-Propanol, 2-methoxy-",
+    "formula": "C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>",
+    "weight": 90.121,
+    "inchi": "InChI=1S/C4H10O2/c1-4(3-5)6-2/h4-5H,3H2,1-2H3",
+    "inchi_key": "YTTFFPATQICAQN-UHFFFAOYSA-N",
+    "cas": "1589-47-5",
+    "jcamp_hrefs": []
+  },
+  {
+    "href": "/cgi/inchi?ID=C18052909&amp;Mask=80#IR-Spec",
+    "name": "2-Phenyldimethylsilyl-3-methyl pyrazine",
+    "formula": "C<sub>13</sub>H<sub>16</sub>N<sub>2</sub>Si",
+    "weight": 228.365,
+    "inchi": "InChI=1S/C13H16N2Si/c1-11-13(15-10-9-14-11)16(2,3)12-7-5-4-6-8-12/h4-10H,1-3H3",
+    "inchi_key": "INLKYOKOCQGVHK-UHFFFAOYSA-N",
+    "cas": "18052-90-9",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C18052909&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C108463&amp;Mask=80#IR-Spec",
+    "name": "Resorcinol",
+    "formula": "C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>",
+    "weight": 110.1106,
+    "inchi": "InChI=1S/C6H6O2/c7-5-2-1-3-6(8)4-5/h1-4,7-8H",
+    "inchi_key": "GHMLBKRAJCXXBS-UHFFFAOYSA-N",
+    "cas": "108-46-3",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C108463&amp;Index=1&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C108463&amp;Index=2&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C108463&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C22364687&amp;Mask=80#IR-Spec",
+    "name": "2-Methylbenzyl cyanide",
+    "formula": "C<sub>9</sub>H<sub>9</sub>N",
+    "weight": 131.1745,
+    "inchi": "InChI=1S/C9H9N/c1-8-4-2-3-5-9(8)6-7-10/h2-5H,6H2,1H3",
+    "inchi_key": "WMGVPDQNPUQRND-UHFFFAOYSA-N",
+    "cas": "22364-68-7",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C22364687&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C635110&amp;Mask=80#IR-Spec",
+    "name": "Benzene, 1,2,4,5-tetrakis(1-methylethyl)-",
+    "formula": "C<sub>18</sub>H<sub>30</sub>",
+    "weight": 246.4308,
+    "inchi": "InChI=1S/C18H30/c1-11(2)15-9-17(13(5)6)18(14(7)8)10-16(15)12(3)4/h9-14H,1-8H3",
+    "inchi_key": "ROXLYQQDLJJEBE-UHFFFAOYSA-N",
+    "cas": "635-11-0",
+    "jcamp_hrefs": []
+  },
+  {
+    "href": "/cgi/inchi?ID=C5750027&amp;Mask=80#IR-Spec",
+    "name": "Butane, 2-cyclopropyl-",
+    "formula": "C<sub>7</sub>H<sub>14</sub>",
+    "weight": 98.1861,
+    "inchi": "InChI=1S/C7H14/c1-3-6(2)7-4-5-7/h6-7H,3-5H2,1-2H3",
+    "inchi_key": "INSSHDIMRIMVLZ-UHFFFAOYSA-N",
+    "cas": "5750-02-7",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C5750027&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C13361347&amp;Mask=80#IR-Spec",
+    "name": "Acetic acid, cyano-, 2-ethylhexyl ester",
+    "formula": "C<sub>11</sub>H<sub>19</sub>NO<sub>2</sub>",
+    "weight": 197.2741,
+    "inchi": "InChI=1S/C11H19NO2/c1-3-5-6-10(4-2)9-14-11(13)7-8-12/h10H,3-7,9H2,1-2H3",
+    "inchi_key": "ZNYBQVBNSXLZNI-UHFFFAOYSA-N",
+    "cas": "13361-34-7",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C13361347&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C287923&amp;Mask=80#IR-Spec",
+    "name": "Cyclopentane",
+    "formula": "C<sub>5</sub>H<sub>10</sub>",
+    "weight": 70.1329,
+    "inchi": "InChI=1S/C5H10/c1-2-4-5-3-1/h1-5H2",
+    "inchi_key": "RGSFGYAAUTVSQA-UHFFFAOYSA-N",
+    "cas": "287-92-3",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C287923&amp;Index=1&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C287923&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C1817749&amp;Mask=80#IR-Spec",
+    "name": "Benzene, 1,1'-methylenebis[4-nitro-",
+    "formula": "C<sub>13</sub>H<sub>10</sub>N<sub>2</sub>O<sub>4</sub>",
+    "weight": 258.2295,
+    "inchi": "InChI=1S/C13H10N2O4/c16-14(17)12-5-1-10(2-6-12)9-11-3-7-13(8-4-11)15(18)19/h1-8H,9H2",
+    "inchi_key": "GLBZQZXDUTUCGK-UHFFFAOYSA-N",
+    "cas": "1817-74-9",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C1817749&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C141106&amp;Mask=80#IR-Spec",
+    "name": "3,5,9-Undecatrien-2-one, 6,10-dimethyl-",
+    "formula": "C<sub>13</sub>H<sub>20</sub>O",
+    "weight": 192.2973,
+    "inchi": "InChI=1S/C13H20O/c1-11(2)7-5-8-12(3)9-6-10-13(4)14/h6-7,9-10H,5,8H2,1-4H3",
+    "inchi_key": "JXJIQCXXJGRKRJ-UHFFFAOYSA-N",
+    "cas": "141-10-6",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C141106&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C71735325&amp;Mask=80#IR-Spec",
+    "name": "1H-Imidazole, 1-(2,2,3,3,3-pentafluoro-1-oxopropyl)-",
+    "formula": "C<sub>6</sub>H<sub>3</sub>F<sub>5</sub>N<sub>2</sub>O",
+    "weight": 214.0928,
+    "inchi": "InChI=1S/C6H3F5N2O/c7-5(8,6(9,10)11)4(14)13-2-1-12-3-13/h1-3H",
+    "inchi_key": "VZUSRIIEPFQBNE-UHFFFAOYSA-N",
+    "cas": "71735-32-5",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C71735325&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C4028631&amp;Mask=80#IR-Spec",
+    "name": "2,4,6-Trimethyliodobenzene",
+    "formula": "C<sub>9</sub>H<sub>11</sub>I",
+    "weight": 246.0881,
+    "inchi": "InChI=1S/C9H11I/c1-6-4-7(2)9(10)8(3)5-6/h4-5H,1-3H3",
+    "inchi_key": "GTPNXFKONRIHRW-UHFFFAOYSA-N",
+    "cas": "4028-63-1",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C4028631&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C116402381&amp;Mask=80#IR-Spec",
+    "name": "Allene, 1,1-bis(triphenylsilyl)-",
+    "formula": "C<sub>39</sub>H<sub>32</sub>Si<sub>2</sub>",
+    "weight": 556.8424,
+    "inchi": "InChI=1S/C39H32Si2/c1-2-39(40(33-21-9-3-10-22-33,34-23-11-4-12-24-34)35-25-13-5-14-26-35)41(36-27-15-6-16-28-36,37-29-17-7-18-30-37)38-31-19-8-20-32-38/h3-32H,1H2",
+    "inchi_key": "IBURSJWFICDYSV-UHFFFAOYSA-N",
+    "cas": "116402-38-1",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C116402381&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C116595096&amp;Mask=80#IR-Spec",
+    "name": "1-(1-Pyrrolidinyl)-2,2-diphenyl-3-(acetamido)propane",
+    "formula": "C<sub>21</sub>H<sub>26</sub>N<sub>2</sub>O",
+    "weight": 322.4439,
+    "inchi": "InChI=1S/C21H26N2O/c1-18(24)22-16-21(17-23-14-8-9-15-23,19-10-4-2-5-11-19)20-12-6-3-7-13-20/h2-7,10-13H,8-9,14-17H2,1H3,(H,22,24)",
+    "inchi_key": "ZBZVFNQNCXHPME-UHFFFAOYSA-N",
+    "cas": "116595-09-6",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C116595096&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C530472&amp;Mask=80#IR-Spec",
+    "name": "Hydrazine, 1,1-diphenyl-, hydrochloride",
+    "formula": "C<sub>12</sub>H<sub>13</sub>ClN<sub>2</sub>",
+    "weight": 220.698,
+    "inchi": "InChI=1S/C12H12N2.ClH/c13-14(11-7-3-1-4-8-11)12-9-5-2-6-10-12;/h1-10H,13H2;1H",
+    "inchi_key": "MIVUDWFNUOXEJM-UHFFFAOYSA-N",
+    "cas": "530-47-2",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C530472&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C116465511&amp;Mask=80#IR-Spec",
+    "name": "Benzoic acid, p-(2-iodoacetamido)-, ethyl ester",
+    "formula": "C<sub>11</sub>H<sub>12</sub>INO<sub>3</sub>",
+    "weight": 333.1224,
+    "inchi": "InChI=1S/C11H12INO3/c1-2-16-11(15)8-3-5-9(6-4-8)13-10(14)7-12/h3-6H,2,7H2,1H3,(H,13,14)",
+    "inchi_key": "TZYCRJNOEXMIEG-UHFFFAOYSA-N",
+    "cas": "116465-51-1",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C116465511&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C26078240&amp;Mask=80#IR-Spec",
+    "name": "Coumarin, 4,6-dimethyl-7-(methylamino)-",
+    "formula": "C<sub>12</sub>H<sub>13</sub>NO<sub>2</sub>",
+    "weight": 203.2371,
+    "inchi": "InChI=1S/C12H13NO2/c1-7-5-12(14)15-11-6-10(13-3)8(2)4-9(7)11/h4-6,13H,1-3H3",
+    "inchi_key": "RIZOSFDXIXBLIP-UHFFFAOYSA-N",
+    "cas": "26078-24-0",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C26078240&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C7719097&amp;Mask=80#IR-Spec",
+    "name": "Thionyl chloride",
+    "formula": "Cl<sub>2</sub>OS",
+    "weight": 118.97,
+    "inchi": "InChI=1S/Cl2OS/c1-4(2)3",
+    "inchi_key": "FYSNRJHAOHDILO-UHFFFAOYSA-N",
+    "cas": "7719-09-7",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C7719097&amp;Index=1&amp;Type=IR",
+      "/cgi/inchi?JCAMP=C7719097&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C4468579&amp;Mask=80#IR-Spec",
+    "name": "2,3-Dimethoxyphenylacetonitrile",
+    "formula": "C<sub>10</sub>H<sub>11</sub>NO<sub>2</sub>",
+    "weight": 177.1998,
+    "inchi": "InChI=1S/C10H11NO2/c1-12-9-5-3-4-8(6-7-11)10(9)13-2/h3-5H,6H2,1-2H3",
+    "inchi_key": "VAOKGCHIOACZHR-UHFFFAOYSA-N",
+    "cas": "4468-57-9",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C4468579&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/formula?ID=C2234755&amp;Mask=80#IR-Spec",
+    "name": "Cyclohexane, 1,2,4-trimethyl-",
+    "formula": "C<sub>9</sub>H<sub>18</sub>",
+    "weight": 126.2392,
+    "inchi": "InChI=1S/C9H18/c1-7-4-5-8(2)9(3)6-7/h7-9H,4-6H2,1-3H3",
+    "inchi_key": "VCJPCEVERINRSG-UHFFFAOYSA-N",
+    "cas": "2234-75-5",
+    "jcamp_hrefs": [
+      "/cgi/formula?JCAMP=C2234755&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C116434878&amp;Mask=80#IR-Spec",
+    "name": "2,4-Ditert-butyl-6-chlorophenyl chloroacetate",
+    "formula": "C<sub>16</sub>H<sub>22</sub>Cl<sub>2</sub>O<sub>2</sub>",
+    "weight": 317.251,
+    "inchi": "InChI=1S/C16H22Cl2O2/c1-15(2,3)10-7-11(16(4,5)6)14(12(18)8-10)20-13(19)9-17/h7-8H,9H2,1-6H3",
+    "inchi_key": "FNJSIWWSGGXZNM-UHFFFAOYSA-N",
+    "cas": "116434-87-8",
+    "jcamp_hrefs": []
+  },
+  {
+    "href": "/cgi/inchi?ID=C1003389&amp;Mask=80#IR-Spec",
+    "name": "Furan, tetrahydro-2,5-dimethyl-",
+    "formula": "C<sub>6</sub>H<sub>12</sub>O",
+    "weight": 100.1589,
+    "inchi": "InChI=1S/C6H12O/c1-5-3-4-6(2)7-5/h5-6H,3-4H2,1-2H3",
+    "inchi_key": "OXMIDRBAFOEOQT-UHFFFAOYSA-N",
+    "cas": "1003-38-9",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C1003389&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/formula?ID=C589902&amp;Mask=80#IR-Spec",
+    "name": "Cyclohexane, 1,4-dimethyl-",
+    "formula": "C<sub>8</sub>H<sub>16</sub>",
+    "weight": 112.2126,
+    "inchi": "InChI=1S/C8H16/c1-7-3-5-8(2)6-4-7/h7-8H,3-6H2,1-2H3",
+    "inchi_key": "QRMPKOFEUHIBNM-UHFFFAOYSA-N",
+    "cas": "589-90-2",
+    "jcamp_hrefs": [
+      "/cgi/formula?JCAMP=C589902&amp;Index=0&amp;Type=IR"
+    ]
+  },
+  {
+    "href": "/cgi/inchi?ID=C116402074&amp;Mask=80#IR-Spec",
+    "name": "4-Tert-butylphenyl bis(2-methylphenyl) phosphate",
+    "formula": "C<sub>24</sub>H<sub>27</sub>O<sub>4</sub>P",
+    "weight": 410.4425,
+    "inchi": "InChI=1S/C24H27O4P/c1-18-10-6-8-12-22(18)27-29(25,28-23-13-9-7-11-19(23)2)26-21-16-14-20(15-17-21)24(3,4)5/h6-17H,1-5H3",
+    "inchi_key": "UTVBYAZNJDVVSV-UHFFFAOYSA-N",
+    "cas": "116402-07-4",
+    "jcamp_hrefs": []
+  },
+  {
+    "href": "/cgi/inchi?ID=C112022830&amp;Mask=80#IR-Spec",
+    "name": "1H,3H-Pyrrolo[1,2-c][1,3,2]oxazaborole, tetrahydro-1-methyl-3,3-diphenyl-, (3aR)-",
+    "formula": "C<sub>18</sub>H<sub>20</sub>BNO",
+    "weight": 277.168,
+    "inchi": "InChI=1S/C18H20BNO/c1-19-20-14-8-13-17(20)18(21-19,15-9-4-2-5-10-15)16-11-6-3-7-12-16/h2-7,9-12,17H,8,13-14H2,1H3/t17-/m1/s1",
+    "inchi_key": "VMKAFJQFKBASMU-QGZVFWFLSA-N",
+    "cas": "112022-83-0",
+    "jcamp_hrefs": [
+      "/cgi/inchi?JCAMP=C112022830&amp;Index=0&amp;Type=IR"
+    ]
+  }
+]
